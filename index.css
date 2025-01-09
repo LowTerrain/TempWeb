@@ -1,0 +1,37 @@
+ .u-section-1 {
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  background-size: cover;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 412px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 42px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 50px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 108px;
+  width: 570px;
+  margin: 42px auto 60px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
